@@ -1,2 +1,2 @@
 # Java_Homework
-Java working others.
+Java Lab.
